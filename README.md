@@ -32,15 +32,6 @@ This course is continually updated. Here’s what we have so far:
 
 - [16- Basic_Numpy](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/16-Basic_Numpy.ipynb)
 
-- [17 - Lab: Data Collection and Manipulation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/17-Lab_Data_Collection_and_Manipulation.ipynb)
-
-- [21 - Simple Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/21-Simple_Regression.ipynb)
-
-- [22 - Model Accuracy](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/22-Model_Accuracy.ipynb)
-
-- [23 - Lab 2: Implement SLR to Predict Baseball Team Wins from Run Differential](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/23-Lab_2_Implement_SLR_to_Predict_Baseball_Team_Wins_from_Run_Differential.ipynb)
-
-- [24 - Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24-Multiple_Linear_Regression.ipynb)
 
 ## Reference
 
