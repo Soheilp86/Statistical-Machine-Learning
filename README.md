@@ -30,11 +30,11 @@ This course is continually updated. Here’s what we have so far:
 
 - [15 - Python Basic Plotting](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/15-Python_basic_Plotting.ipynb)
 
-- [16- Basic_Numpy](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/16-Basic_Numpy.ipynb)
+- [16- Basics of Numpy](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/16-Basic_Numpy.ipynb)
 
-- [17_Basic_Pandas](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/17_Basic_Pandas.ipynb)
+- [17 Basics of Pandas](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/17_Basic_Pandas.ipynb)
 
-- [Lab 1: DataCollection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
+- [Lab 1: Data Collection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
 
 
 ## Reference
