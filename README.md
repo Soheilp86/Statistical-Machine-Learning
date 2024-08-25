@@ -34,6 +34,8 @@ This course is continually updated. Here’s what we have so far:
 
 - [17_Basic_Pandas](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/17_Basic_Pandas.ipynb)
 
+- [Lab 1 (Data Collection)](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab 1 (Data Collection).ipynb)
+
 
 ## Reference
 
