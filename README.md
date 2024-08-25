@@ -32,6 +32,8 @@ This course is continually updated. Here’s what we have so far:
 
 - [16- Basic_Numpy](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/16-Basic_Numpy.ipynb)
 
+- [17_Basic_Pandas](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/17_Basic_Pandas.ipynb)
+
 
 ## Reference
 
