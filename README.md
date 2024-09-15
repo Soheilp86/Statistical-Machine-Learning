@@ -20,7 +20,7 @@ This course is continually updated. Here’s what we have so far:
 
 ### Introduction to Jupyter Notebook
 
-- [11 - Getting Started with Jupyter Notebook](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/1-%2011-Getting%20Started%20with%20Jupyter%20Notebook.ipynb)
+- [11 - Getting Started with Jupyter Notebook](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/11-Getting_Started_with_Jupyter_Notebook.ipynb)
 
 - [12 - Python Data Types](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/12-Python_Data_Types.ipynb)
 
