@@ -36,6 +36,12 @@ This course is continually updated. Here’s what we have so far:
 
 - [Lab 1: Data Collection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
 
+- [21 - Simple Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/21-Simple_Regression.ipynb)
+
+- [22 - Model Accuracy I](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/22-Model_Accuracy.ipynb)
+
+- [23 - Model Accuracy II](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/23-Model_Accuracy_II.ipynb)
+
 
 ## Reference
 
