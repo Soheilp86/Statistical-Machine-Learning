@@ -44,7 +44,7 @@ This course is continually updated. Here’s what we have so far:
   
 - [Lab 2: Simple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab2_SLR.ipynb)
 
-
+- [24 - Multiple Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24_MultipleLinearRegression_.ipynb)
 ## Reference
 
 For further reading, we recommend:
