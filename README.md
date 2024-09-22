@@ -44,7 +44,15 @@ This course is continually updated. Here’s what we have so far:
   
 - [Lab 2: Simple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab2_SLR.ipynb)
 
-- [24 - Multiple Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24_MultipleLinearRegression_.ipynb)
+- [24 - Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24_MultipleLinearRegression_.ipynb)
+  
+- [25 - Performance Metrics for MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/25-PerformanceMetricsInMultipleRegression.ipynb)
+
+- [26 - Feature/Model Selection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/26_Feature_Model_Selection.ipynb)
+
+- [27 - Predictions in MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/27-PredictionInMultiRegression.ipynb)
+
+
 ## Reference
 
 For further reading, we recommend:
