@@ -52,6 +52,12 @@ This course is continually updated. Here’s what we have so far:
 
 - [27 - Predictions in MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/27-PredictionInMultiRegression.ipynb)
 
+- [31 - Classification](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/31-Classification_Intro.ipynb)
+
+- [32 - Multi-Class Classification](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/32-Multi-Class-Classification.ipynb)
+
+- [33 - Confusion Matrix](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/33-Comfusion_Matrix.ipynb)
+
 
 ## Reference
 
