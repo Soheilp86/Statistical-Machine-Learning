@@ -58,11 +58,14 @@ This course is continually updated. Here’s what we have so far:
 
 - [33 - Confusion Matrix](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/33-Comfusion_Matrix.ipynb)
 
-- [34- Stratified Splits](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/34-Stratified_Splits.ipynb)
-
 - [41 - Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/41_Perceptrons.ipynb)
 
 - [Lab4: Multiclass Classification Using Tenswrflow.ipynb](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab4_Multiclass_classification_using_tenswrflow.ipynb)
+
+- [51- Stratified Splits](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/51_Stratified_Splits.ipynb)
+
+- [52- K-fold Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/52_Cross_Validation.ipynb)
+
 
 ## Reference
 
