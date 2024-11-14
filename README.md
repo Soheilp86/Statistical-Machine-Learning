@@ -6,13 +6,14 @@ Welcome to the Statistical Machine Learning (SML) course! This repository contai
 
 Machine Learning (ML) is a dynamic field at the crossroads of data science, mathematics, statistics, and computer science. It involves techniques that allow machines to learn from data and improve over time. This course integrates ML algorithms with statistical thinking, covering:
 
-- Basics of Python
-- Regression and classification
-- Model analysis and performance metrics
-- Cross-validation and data transformations
-- Dimension reduction
-- Supervised and unsupervised learning
-- Ensemble methods
+- 1. Basics of Python
+- 2. Regression 
+- 3. Classification
+- 4. Cross-validation and data transformations
+- 5. Dimension reduction
+- 6. Basics of deep learning 
+- 7. Transformers 
+
 
 ## Course Materials
 
@@ -58,13 +59,18 @@ This course is continually updated. Here’s what we have so far:
 
 - [33 - Confusion Matrix](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/33-Comfusion_Matrix.ipynb)
 
-- [41 - Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/41_Perceptrons.ipynb)
+- [34 - K-Nearest_Neighbors](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/34-KNN.ipynb)
+
+- [41- Stratified Splits](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/41_Stratified_Splits.ipynb)
+  
+- [42- K-fold Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/42_Cross_Validation.ipynb)
+
+- [61 - Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/61_Perceptrons.ipynb)
 
 - [Lab4: Multiclass Classification Using Tenswrflow.ipynb](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab4_Multiclass_classification_using_tenswrflow.ipynb)
 
-- [51- Stratified Splits](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/51_Stratified_Splits.ipynb)
 
-- [52- K-fold Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/52_Cross_Validation.ipynb)
+
 
 
 ## Reference
