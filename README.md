@@ -10,7 +10,7 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - 2. Regression 
 - 3. Classification
 - 4. Cross-validation and data transformations
-- 5. Dimension reduction
+- 5. Dimensionality reduction
 - 6. Basics of deep learning 
 - 7. Transformers 
 
@@ -64,6 +64,8 @@ This course is continually updated. Here’s what we have so far:
 - [41- Stratified Splits](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/41_Stratified_Splits.ipynb)
   
 - [42- K-fold Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/42_Cross_Validation.ipynb)
+
+- [51 - Dimensionality Reduction: Principal Component Analysis (PCA)](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/51_PCA)
 
 - [61 - Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/61_Perceptrons.ipynb)
 
