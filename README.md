@@ -65,7 +65,10 @@ This course is continually updated. Here’s what we have so far:
   
 - [42- K-fold Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/42_Cross_Validation.ipynb)
 
-- [51 - Dimensionality Reduction: Principal Component Analysis (PCA)](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/51_PCA.ipynb)
+- [51 - Principal Component Analysis (PCA)](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/51_PCA.ipynb)
+
+- [52 - PCA: Dimensionality Reduction](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/52_PCA_Dimension_Reduction.ipynb)
+
 
 - [61 - Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/61_Perceptrons.ipynb)
 
