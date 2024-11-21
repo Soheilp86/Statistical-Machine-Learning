@@ -69,6 +69,7 @@ This course is continually updated. Here’s what we have so far:
 
 - [52 - PCA: Dimensionality Reduction](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/52_PCA_Dimension_Reduction-2.ipynb)
 
+- [Lab 5: Movie Recommendation System.ipynb ](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab5_Movie_Recommendation_System.ipynb)
 
 - [61 - Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/61_Perceptrons.ipynb)
 
