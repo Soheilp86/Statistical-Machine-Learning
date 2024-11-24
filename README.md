@@ -61,6 +61,9 @@ This course is continually updated. Here’s what we have so far:
 
 - [34 - K-Nearest_Neighbors](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/34-KNN.ipynb)
 
+- [35 - Decision Trees](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/35_Decision_Trees.ipynb)
+ 
+
 - [41- Stratified Splits](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/41_Stratified_Splits.ipynb)
   
 - [42- K-fold Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/42_Cross_Validation.ipynb)
