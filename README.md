@@ -78,8 +78,7 @@ This course is continually updated. Here’s what we have so far:
 
 - [Lab4: Multiclass Classification Using Tenswrflow.ipynb](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab4_Multiclass_classification_using_tenswrflow.ipynb)
 
-- [71 - Natural Language Processing (NLP) with Transformers](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/71_Transformer_NLP)
-.ipynb
+- [71 - Natural Language Processing (NLP) with Transformers](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/71_Transformer_NLP.ipynb)
 
 
 
