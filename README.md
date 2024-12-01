@@ -12,7 +12,7 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - 4. Cross-validation and data transformations
 - 5. Dimensionality reduction
 - 6. Basics of deep learning 
-- 7. Transformers 
+- 7. Optional Topics: Transformers 
 
 
 ## Course Materials
@@ -78,7 +78,8 @@ This course is continually updated. Here’s what we have so far:
 
 - [Lab4: Multiclass Classification Using Tenswrflow.ipynb](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab4_Multiclass_classification_using_tenswrflow.ipynb)
 
-
+- [71 - Natural Language Processing (NLP) with Transformers](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/71_Transformer_NLP)
+.ipynb
 
 
 
