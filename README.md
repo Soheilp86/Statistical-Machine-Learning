@@ -49,7 +49,7 @@ This course is continually updated. Here’s what we have so far:
   
 - [25 - Performance Metrics for MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/25-PerformanceMetricsInMultipleRegression.ipynb)
 
-- [26 - Lab 3: Feature/Model Selection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/26_Lab_3Feature_Model_Selection.ipynb)
+- [26 - Lab 3: Feature/Model Selection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/26_Lab3_Feature_Model_Selection.ipynb)
 
 - [27 - Predictions in MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/27-PredictionInMultiRegression.ipynb)
 
