@@ -6,7 +6,7 @@ Welcome to the Statistical Machine Learning (SML) course! This repository contai
 
 Machine Learning (ML) is a dynamic field at the crossroads of data science, mathematics, statistics, and computer science. It involves techniques that allow machines to learn from data and improve over time. This course integrates ML algorithms with statistical thinking. For details on covered material, see the overview notebook.
 
-## Course Materials we have covered so far:
+## Course materials we have covered so far:
 
 - [ Overview](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/00-Overview.ipynb)
 - [ Data Representation](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Representation.docx)
