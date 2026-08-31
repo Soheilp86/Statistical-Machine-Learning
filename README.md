@@ -8,14 +8,13 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 
 ## Course materials we have covered so far:
 
-- [ Overview](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/00-Overview.ipynb)
-- [ Data Representation](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Representation.docx)
-- [ Lab 1: Data Collection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
-- [ Worksheet for lab 1](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Collection.docx)
-- [ Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24_MultipleLinearRegression_.ipynb)
-- [ Performance Metrics for MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/12-MLR_Performance_Metrics.ipynb)
-- [ Worksheet for MLR performance metrics](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data%20Representation.docx)
-
+- [Overview](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/00-Overview.ipynb)
+- [Data Representation](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Representation.docx)
+- [Lab 1: Data Collection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
+- [Worksheet for Lab 1](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Collection.docx)
+- [Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24_MultipleLinearRegression_.ipynb)
+- [Performance Metrics for MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/12-MLR_Performance_Metrics.ipynb)
+- [Worksheet for MLR Performance Metrics](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data%20Representation.docx)
 ## Reference
 
 For further reading, we recommend:
