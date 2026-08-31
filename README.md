@@ -12,9 +12,9 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - [Data Representation](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Representation.docx)
 - [Lab 1: Data Collection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
 - [Worksheet for Lab 1](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Collection.docx)
-- [Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/24_MultipleLinearRegression_.ipynb)
+- [Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/11-MultipleLinearRegression.ipynb)
 - [Performance Metrics for MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/12-MLR_Performance_Metrics.ipynb)
-- [Worksheet for MLR Performance Metrics](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data%20Representation.docx)
+- [Worksheet for MLR Performance Metrics](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Representation.docx)
 ## Reference
 
 For further reading, we recommend:
