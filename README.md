@@ -18,7 +18,7 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - [Worksheet for MLR Performance Metrics II](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Perfromance_metrics_II.docx)
 - [Introduction to Classification and Logistic Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/21_Classification_Intro.ipynb)
 - [Classification Metrics](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/22_Classification_Metrics.ipynb)
-- [Worksheet for Classification Metrics](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/22_Classification_Metrics.docx)
+- [Worksheet for Classification Metrics](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/22_Confusion_Matrix_Worksheet)
 
 
 ## Reference
