@@ -23,6 +23,7 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - [Multi_Class classification worksheet](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/23-multiclass_classification_worksheet.ipynb)
 - [KNN Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/31_KNN_Regression.ipynb)
 - [KNN Classification](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/32_KNN_Classification.ipynb)
+- [Cross Validation](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/41_Cross_Validation.ipynb)
  
 
 ## Reference
