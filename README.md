@@ -30,6 +30,8 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - [Introduction to Neural Networks](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/61_Neural_Networks_Intro.ipynb)
 - [Worksheet for Neural Networks](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/61_Neural_Networks_Worksheet.docx)
 - [Training a Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/62_Training_Neural_Networks.ipynb)
+- [Principal Component Analysis](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/71_PCA.ipynb)
+- [Worksheet for PCA](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/71_PCA_Worksheet.docx)
 
 ## Reference
 
