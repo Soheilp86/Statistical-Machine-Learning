@@ -11,7 +11,7 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - [Overview](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/00-Overview.ipynb)
 - [Data Representation](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Representation.docx)
 - [Lab 1: Data Collection](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.ipynb)
-- [Worksheet for Lab 1](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Data_Collection.docx)
+- [Worksheet for Lab 1](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Lab1_Data_Collection.docx)
 - [Multiple Linear Regression](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/11-MultipleLinearRegression.ipynb)
 - [Performance Metrics for MLR](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/12-MLR_Performance_Metrics.ipynb)
 - [Worksheet for MLR Performance Metrics I](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/Perfromance_metrics_I.docx)
@@ -27,12 +27,15 @@ Machine Learning (ML) is a dynamic field at the crossroads of data science, math
 - [Decision Tree](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/51_Decision_Trees.ipynb)
 - [Worksheet for Decision Tree](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/51_Decision_Tree_Worksheet.docx)
 - [Random Forests](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/52_Random_Forest.ipynb)
+- [Lab 2: Selecting Features with Random Forests](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab2_Random_Forest.ipynb)
 - [Introduction to Neural Networks](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/61_Neural_Networks_Intro.ipynb)
 - [Worksheet for Neural Networks](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/61_Neural_Networks_Worksheet.docx)
 - [Training a Neural Network](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/62_Training_Neural_Networks.ipynb)
 - [Principal Component Analysis](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/71_PCA.ipynb)
 - [Worksheet for PCA](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/71_PCA_Worksheet.docx)
-- [PCA Lab](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/72_PCA_Lab.ipynb)
+- [Lab 3: PCA](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/Lab3_PCA.ipynb)
+- [k-Means Clustering](https://colab.research.google.com/github/Soheilp86/Statistical-Machine-Learning/blob/main/72_K_Means.ipynb)
+- [Worksheet for k-Means Clustering](https://github.com/Soheilp86/Statistical-Machine-Learning/blob/main/72_K_Means_Worksheet.docx)
 
 ## Reference
 
